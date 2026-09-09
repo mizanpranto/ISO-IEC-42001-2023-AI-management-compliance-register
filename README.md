@@ -7,6 +7,10 @@ chart, table, and report rebuilds instantly, entirely in the browser.
 Built as a portfolio piece with **plain HTML, CSS, and JavaScript** — no build
 step, no framework, no backend.
 
+Click to visit the live demo : https://mizanpranto.github.io/ISO-IEC-42001-2023-AI-management-compliance-register/
+
+You are welcome to make any contribute. 
+
 ![Pranto Shield dashboard](assets/screenshot-dashboard.png)
 ![Remediation roadmap](assets/screenshot-roadmap.png)
 ![History & trend](assets/screenshot-history.png)
