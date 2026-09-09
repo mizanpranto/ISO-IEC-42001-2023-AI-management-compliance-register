@@ -1,4 +1,4 @@
-# Pranto Shield — ISO/IEC 42001:2023 AI Management Register
+# Pranto's GRC — ISO/IEC 42001:2023 AI Management Register
 
 A single-page, dependency-light dashboard for tracking an ISO/IEC 42001:2023
 AI Management System (AIMS) gap assessment: import a workbook, and every
